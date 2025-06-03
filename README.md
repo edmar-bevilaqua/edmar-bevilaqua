@@ -8,7 +8,9 @@
   - E-mail: edmar.bevi@gmail.com;
   - Instagram: <a href="https://www.instagram.com/edmar_bevilaqua/">edmar_bevilaqua</a>;
 
-<!---
-Edmar-bevilaqua/Edmar-bevilaqua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edmar-bevilaqua&theme=transparent&hide=stars&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edmar-bevilaqua&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
