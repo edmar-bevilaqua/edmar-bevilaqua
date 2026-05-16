@@ -11,3 +11,7 @@ Hi, my name is Edmar Junyor Bevilaqua, but I also respond to the nickname "Mathi
   - LinkedIn: <a href="https://www.linkedin.com/in/edmar-bevilaqua/">edmar-bevilaqua</a>;
   - E-mail: edmar.bevi@gmail.com;
   - Instagram: <a href="https://www.instagram.com/edmar_bevilaqua/">edmar_bevilaqua</a>;
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/edmar-bevilaqua/edmar-bevilaqua/refs/heads/main/Bottom.svg"/>
+</p>
